@@ -26,7 +26,7 @@ The dataset contains 200 rows and 5 columns:
 
 ## Usage
 
-1. Install required libraries:
+1. Install required libraries: 
     - numpy
     - pandas
     - seaborn
